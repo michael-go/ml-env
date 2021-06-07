@@ -5,7 +5,7 @@
 
 ## Usage
 
-To sync/install all packages start JupyterLab in the virtual-env:
+To sync/install all packages and start JupyterLab in the virtual-env:
 ```
 ./lab.sh
 ```
