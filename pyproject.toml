@@ -5,12 +5,13 @@ version = "0.0.1"
 authors = []
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8,<3.11"
 
 # ML & DS
 tensorflow = "^2.5.0"
 tensorflow-datasets = "^4.3.0"
-torch = "^1.8.1"
+torch = "^1.11.0"
+pytorch-lightning = "^1.6.3"
 scikit-learn = "^0.24.2"
 pydot = "^1.4.2"
 nltk = "^3.6.2"
