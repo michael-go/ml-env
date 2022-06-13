@@ -1,6 +1,7 @@
 ## Prerequisits
 
 * https://python-poetry.org/
+  * version >= 1.2.0b2
 * python >= 3.8
 
 ## Usage
